@@ -1,0 +1,323 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@700&display=swap');
+
+body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    gap: 1vw; 
+    margin: 0;  
+    font-family: 'Fredoka One', cursive;
+    
+} 
+
+.header {
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    top: 1vw;
+    background-color: #F2CEDA;
+    padding: 3vh;
+    font-family: roboto , sans-serif;
+}
+
+.topnav { 
+    font-size: 0.8vw;
+    margin: 1.2vw;
+    
+
+}
+
+.home{  
+    color: #D23166;
+    font-weight: bolder;
+    margin-left: -5vw;
+  }  
+
+.logo {
+    margin: 20vw;
+    margin-left: 16vw;
+    
+}
+
+.logo img {
+    width: 6vw;
+    height: 12vh;
+}
+
+.boutton {
+    text-align: center;
+    margin-top: 0.3vw;
+    color: white;   
+    margin-top: 0.5vw;
+    font-size: 0.8vw;
+    font-weight: bold;
+}
+
+.pink {
+    margin-left: 10vw;
+    margin-right: -5vw;
+    background-color: #D23166;
+    border-radius: 0.4vw;
+    width: 7vw;
+    height: 5vh;
+}
+
+.main {
+    background-color: #F2CEDA;
+    width: 10vw;
+
+}
+
+ .texte{
+    display: flex;
+    flex-direction: column;
+    margin-left: 11vw;
+    width: 50vw;
+}
+
+.textee{
+    margin-top: 7vw ;
+    margin-left: 7vw;
+}
+
+.texte2 {
+    font-size: 1vw;
+    font-family:roboto , sans-serif
+       
+}
+
+.h1 {   
+    font-family: 'Fredoka One', cursive;
+    font-size: 5vw;
+    margin-top: 10vh;
+}
+
+
+.color {
+    color: #D23166;
+    font-size: 2.5vw;
+}
+.texte4 {
+    font-size: 1vw;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+.texte4 p {
+    margin-top: -1vw;
+}
+
+.boutton2 {
+    text-align: center;
+    margin-top: 0.6vw;
+    color: white; 
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 0.8vw;
+    font-weight: bold;
+}
+
+.pink2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 0vw;
+    margin-right: -5vw;
+    background-color: #D23166;
+    border-radius: 0.4vw;
+    width: 7vw;
+    height: 5vh;
+}
+
+.homepage{
+    background-color: #F2CEDA; 
+    height: 80vh;
+    display: flex;
+    
+}
+ .galce {
+    position: relative;
+    translate: 10vw -2vw;
+    width: 0vw;
+    height: 0vh;
+ }
+
+.galce img{
+    object-fit: cover;
+    margin-top: -55vh; 
+    margin-left: 34vw; 
+    height: 90vh;
+    width: 68vh;
+
+}
+
+.partie1 {
+    display: flex;
+    margin-top: 5vw;
+    margin-left: 19vw;
+    margin: 7vw;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 9px;   
+    font-family: 'Nunito Sans', sans-serif;
+
+ }
+
+ .box1 {
+     outline: 0.1px solid rgb(222, 220, 220);
+     border-radius: 0.5vw;
+     padding: 1vw;
+     box-shadow: 10px 10px 10px rgb(212, 212, 212);
+     margin-left: 9vw;
+    
+ }
+
+ .box2 {
+    outline: 0.1px solid rgb(222, 220, 220);
+     border-radius: 0.5vw;
+     padding: 1vw;
+ }
+
+.box3{
+    outline: 0.1px solid rgb(222, 220, 220);
+     border-radius: 0.5vw;
+     padding: 1vw;
+}
+
+.box4{
+    outline: 0.1px solid rgb(222, 220, 220);
+    border-radius: 0.1vw;
+    padding: 1vw;
+    margin-right: 4vw;
+}
+
+footer {
+    
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 26vw;
+    font-family: roboto , sans-serif;
+    
+}
+.foot {
+    margin-left: -2vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 20vw;
+}
+
+.logo2 {
+    margin-left: 19vw;
+    
+}
+
+.logo2 img {
+    height: 10vh;
+    width: 5vw;
+}
+
+.footert1 p {
+    color: white;
+    margin-left: 19vw;
+    font-size: 0.8vw;
+}
+
+.footert2 p {
+    color: white;
+    margin-left: 19vw;
+    font-size: 0.8vw;
+    font-weight: bold;
+
+}
+
+.resaux {
+    display: flex;
+    margin-left: 18vw;
+
+
+}
+.resaux img{
+    display: flex;
+    height: 2.5vh;
+    width: 2.5vh;
+    margin-left: 1vw;
+}
+
+
+.footert3 {
+    margin-top: 5vw;
+
+}
+
+.footert3 p {
+    
+    margin-left: 8vw;
+    line-height: 2vh;
+    color: white;
+    font-size: 0.8vw;
+}
+
+.footert4 {
+    margin-top: 3vw;
+
+}
+.footert4 p {
+    
+    margin-left: 12vw;
+    line-height: 2vh;
+    color: white;
+    font-size: 0.8vw;
+}
+
+.footert5 {
+    margin-top: -2vw;
+
+}
+.footert5 h1 {
+    
+    margin-left: 9vw;
+    line-height: 2vh;
+    color: white;
+    font-size: 0.8vw;
+    font-weight: bolder;
+}
+
+.footert5 {
+    margin-left: 7.5vw;
+    color: white;
+    font-size: 0.8vw;  
+}
+
+.news {
+    font-weight: bolder;
+
+}
+
+.mail {
+    
+    margin-top: 3vh;
+    margin-left: 1.5vw;
+    opacity: 50%;
+    
+}
+
+.buttonh {
+   margin-left: 12.2vw;
+   margin-top: -2vh;
+   font-weight: bolder;
+   color: white;
+}
+
+.pinkh{
+    margin-left: 10.5vw;
+    margin-top: -3.6vh;
+    background-color: #D23166;
+    border-radius: 0.4vw;
+    width: 7vw;
+    height: 5vh;
+    
+   text-decoration: aliceblue;
+}
+
+
+
