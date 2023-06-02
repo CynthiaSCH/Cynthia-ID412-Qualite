@@ -142,7 +142,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 
 .galce img{
     object-fit: cover;
-    margin-top: -55vh; 
+    margin-top: -40vh; 
     margin-left: 34vw; 
     height: 90vh;
     width: 68vh;
