@@ -8,19 +8,19 @@ Améliorations en A11Y et Performance.
 
 ### Analyse de ma page (2 pts)
 
-le premier problème et le nom donné en image avant les changements il n'y avait aucun.
+le premier problème et le nom donné aux image, avant les changements il n'y avait aucun.
 
 ### A11Y - Amélioration 1
 
 J'ai nommé les photo sur le site qui en avait pas (2 pts)
 
-Cela aide les personnes malvoyante (2 pts)
+Cela aide les personnes malvoyante quand elles passe en revue le site, grace à la voix electronique, les image peuvent être lu à voix haute (2 pts)
 
 ### A11Y - Amélioration 2
 
-Description de votre amélioration: (2 pts)
+Modification de la taille du texte (2 pts)
 
-Dans quel cas cela aide l'utilisateur ? (2 pts)
+le texte était petit je l'ai donc adapté dans une taille plus grande, pour aider les gens atteint de dyslexique à pouvoir lire plus facilement les textes  (2 pts)
 
 ---
 
