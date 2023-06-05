@@ -22,28 +22,32 @@ Modification de la taille du texte (2 pts)
 
 le texte était petit je l'ai donc adapté dans une taille plus grande, pour aider les gens atteint de dyslexique à pouvoir lire plus facilement les textes  (2 pts)
 
----
+### A11Y - Amélioration 3
+
+J'ai verifier le contraste couleurs 
+
+cela aider à la lisibilité de la page web et facilite la lecture des textes
 
 ## Performance
 
-### Analyse de ma page (2 pts)
+### Analyse de ma page (2 pts) 
 
-- Taille globale de votre page.
+- Taille globale de votre page. 
 
 - Répartition entre les différents contenus (images, fontes, html/css/js...)
 
-- Vitesse de chargement
+- Vitesse de chargement 
 
 ### Performance - Amélioration 1
 
-Description + Pourquoi faire cette amélioration? (2 pts)
+Chnager tous les fichers image en png et non jpg. permet de reduire la taille du site (410.39 KB taille du site) (2 pts)
 
-Indiquer le gain de performance mesuré (1 pt)
+5% de performance en plus  (1 pt)
 
 ### Performance - Amélioration 2
 
-Description + Pourquoi faire cette amélioration? (2 pts)
+Ajoue d'une balise meta name description et d'un titre sur mon html (2 pts)
 
-Indiquer le gain de performance mesuré (1 pt)
+Permet d'avoir un site avec une description et un titre, pour aider les personnes malvoyantes (1 pt)
 
 ---
