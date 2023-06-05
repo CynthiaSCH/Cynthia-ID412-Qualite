@@ -8,11 +8,11 @@ Améliorations en A11Y et Performance.
 
 ### Analyse de ma page (2 pts)
 
-le premier problème et le nom donné aux image, avant les changements il n'y avait aucun.
+le premier problème et le nom donné aux image, avant les changements il n'y avait aucun. ensuite j'ai amelioré le contraste du background et j'ai fini par changer les images qui etais en jpg pour le mettre en png
 
 ### A11Y - Amélioration 1
 
-J'ai nommé les photo sur le site qui en avait pas (2 pts)
+J'ai nommé les photos sur le site qui en avait pas (2 pts)
 
 Cela aide les personnes malvoyante quand elles passe en revue le site, grace à la voix electronique, les image peuvent être lu à voix haute (2 pts)
 
@@ -24,23 +24,25 @@ le texte était petit je l'ai donc adapté dans une taille plus grande, pour aid
 
 ### A11Y - Amélioration 3
 
-J'ai verifier le contraste couleurs 
+J'ai verifier le contraste couleurs (j'ai legerment foncé le background)
 
 cela aider à la lisibilité de la page web et facilite la lecture des textes
 
-## Performance
+## Performance :Insights
 
 ### Analyse de ma page (2 pts) 
 
-- Taille globale de votre page. 
+-nom de domaine (cschildknecht.ch) tester sur PageSpeed 
+
+- Taille globale de votre page. (409.86 KB)
 
 - Répartition entre les différents contenus (images, fontes, html/css/js...)
 
-- Vitesse de chargement 
+- Vitesse de chargement (0.8 seconde)
 
 ### Performance - Amélioration 1
 
-Chnager tous les fichers image en png et non jpg. permet de reduire la taille du site (410.39 KB taille du site) (2 pts)
+Chnager tous les fichers image qui étaient en jpg pour le mettre en png. permet de reduire la taille du site (410.39 KB taille du site) (2 pts)
 
 5% de performance en plus  (1 pt)
 

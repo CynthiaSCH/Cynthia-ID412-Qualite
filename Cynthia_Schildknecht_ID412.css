@@ -28,7 +28,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
 }
 
 .home{  
-    color: #D23166;
+    color: #d1074b;
     font-weight: bolder;
     margin-left: -5vw;
   }  
@@ -154,6 +154,7 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     margin-top: 5vw;
     margin-left: 19vw;
     margin: 7vw;
+    height: auto;
     text-align: center;
     justify-content: space-around;
     font-size: 13px;   
@@ -167,6 +168,8 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
      padding: 1vw;
      box-shadow: 10px 10px 10px rgb(212, 212, 212);
      margin-left: 9vw;
+     margin: auto;
+     height: auto;
     
  }
 
@@ -174,12 +177,16 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     outline: 0.1px solid rgb(222, 220, 220);
      border-radius: 0.5vw;
      padding: 1vw;
+     margin: auto;
+     height: auto;
  }
 
 .box3{
     outline: 0.1px solid rgb(222, 220, 220);
      border-radius: 0.5vw;
      padding: 1vw;
+     margin: auto;
+     height: auto;
 }
 
 .box4{
@@ -187,6 +194,8 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     border-radius: 0.1vw;
     padding: 1vw;
     margin-right: 4vw;
+    margin: auto;
+     height: auto;
 }
 
 footer {
