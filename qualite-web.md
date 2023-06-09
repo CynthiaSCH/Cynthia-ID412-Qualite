@@ -39,9 +39,7 @@ permet la facilité pour les personnes avec des soucis de motricité qui ne peuv
 
 ### Analyse de ma page (2 pts) 
 
-- nom de domaine (cschildknecht.ch) tester sur PageSpeed insight
-
-- Taille globale de votre page. (409.86 KB)
+- Taille globale de votre page. (2,28 Mo)
 
 - Répartition entre les différents contenus (images, fontes, html/css/js...)
 

@@ -155,7 +155,7 @@ a.evitement:focus {
 
 .galce img{
     object-fit: cover;
-    margin-top: -45vh; 
+    margin-top: -50vh; 
     margin-left: 34vw; 
     height: 90vh;
     width: 68vh;
@@ -333,7 +333,7 @@ footer {
 .pinkh{
     margin-left: 8vw;
     margin-top: -3.6vh;
-    background-color: #D23166;
+    background-color: #af063e;
     border-radius: 0.4vw;
     width: 7vw;
     height: 5vh;
