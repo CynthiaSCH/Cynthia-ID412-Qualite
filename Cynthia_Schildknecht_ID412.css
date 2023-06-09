@@ -15,14 +15,14 @@ body{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Rob
     align-items: center;
     height: 10vh;
     top: 1vw;
-    background-color: #F2CEDA;
+    background-color: #efdee3;
     padding: 3vh;
     font-family: roboto , sans-serif;
 }
 a.evitement {
     display: inline;
-    color: #F2CEDA;
-    background-color: #F2CEDA;
+    color: #efdee3;
+    background-color: #efdee3;
     padding: 5rem;
     position: absolute;
     left:  -99999rem;
@@ -41,7 +41,7 @@ a.evitement:focus {
 }
 
 .home{  
-    color: #d1074b;
+    color: #af063e;
     font-weight: bolder;
     margin-left: -5vw;
   }  
@@ -69,14 +69,14 @@ a.evitement:focus {
 .pink {
     margin-left: 10vw;
     margin-right: -5vw;
-    background-color: #D23166;
+    background-color: #af063e;
     border-radius: 0.4vw;
     width: 7vw;
     height: 5vh;
 }
 
 .main {
-    background-color: #F2CEDA;
+    background-color: #efdee3;
     width: 10vw;
 
 }
@@ -107,7 +107,7 @@ a.evitement:focus {
 
 
 .color {
-    color: #D23166;
+    color: #af063e;
     font-size: 2.5vw;
 }
 .texte4 {
@@ -134,14 +134,14 @@ a.evitement:focus {
     justify-content: center;
     margin-left: 0vw;
     margin-right: -5vw;
-    background-color: #D23166;
+    background-color: #af063e;
     border-radius: 0.4vw;
     width: 7vw;
     height: 5vh;
 }
 
 .homepage{
-    background-color: #F2CEDA; 
+    background-color: #efdee3; 
     height: 80vh;
     display: flex;
     
